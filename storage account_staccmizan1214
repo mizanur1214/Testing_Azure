@@ -1,0 +1,16 @@
+{
+  "value": [
+    {
+      "id": "/subscriptions/113f238c-009e-454e-9315-6c46091eec79/resourceGroups/rsgp_mizan/providers/Microsoft.Storage/storageAccounts/staccmizan1214",
+      "name": "staccmizan1214",
+      "type": "Microsoft.Storage/storageAccounts",
+      "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+      },
+      "kind": "StorageV2",
+      "location": "australiaeast",
+      "tags": {}
+    }
+  ]
+}
